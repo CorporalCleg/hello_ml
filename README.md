@@ -1,4 +1,4 @@
-## Here you can find neural network that can detect digis "1" and "2" by photo
+## Here you can find neural network that can detect digits "1" and "2" by photo
 
 **For testing it you need:**
 * to put image in "images" folder
